@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/VN_mlp/vn_SWAT/chestplate"
+
+	"$nocull" "1"
+	"$phong" "1"
+	"$phongexponent" "05"
+	"$phongboost" ".001"	
+	"$halflambert" "0"
+	"$basemapalphaphongmask" "1"
+	"$lightwarptexture" "models/VN_mlp/common/lightwarp"
+
+
+	"$rimlight" "1"
+	"$rimlightexponent" "0.1"	
+	"$rimlightboost" "0.5"
+	"$ambientocclusion" "1"
+}
